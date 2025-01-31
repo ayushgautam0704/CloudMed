@@ -7,8 +7,8 @@ Cloud Based Scalable Healthcare Portal
 - Designed and implemented interactive data visualizations using D3.js and Chart.js.
 
 ### Technologies
-Frontend: React.js, React Router, CSS
-Backend: Node.js, Express.js, Mongoose
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
-Cloud Technologies: Docker, Kubernetes
+- Frontend: React.js, React Router, CSS
+- Backend: Node.js, Express.js, Mongoose
+- Database: MongoDB
+- Authentication: JSON Web Tokens (JWT)
+- Cloud Technologies: Docker, Kubernetes
